@@ -1,0 +1,34 @@
+{
+  "users": [
+    {"id":1, "username": "tina", "password": "ptina"},
+    {"id":2, "username": "agus", "password": "pagus"},
+    {"id":3, "username": "sulis", "password": "psulis"} 
+  ],
+  "merchants": [
+    {
+      "id":1,
+      "merchant_name":"Miniso",
+      "merchant_logo":"https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/032019/untitled-1_180.png"
+    },
+    {
+      "id":2,
+      "merchant_name":"Solaria",
+      "merchant_logo":"https://s3-ap-southeast-1.amazonaws.com/asset1.gotomalls.com/uploads/retailers/logo/L3ikzdvWvn0f-oI7-2146-solaria-1435139810_1.jpg"
+    },
+    {
+      "id":3,
+      "merchant_name":"Sport Nation",
+      "merchant_logo":"https://s3-ap-southeast-1.amazonaws.com/asset1.gotomalls.com/uploads/retailers/logo/L8e3-KLOVONcyY_4-L8e2m4LOVMBddRjH-sports-nation-1486521289_1.jpg"
+    },
+    {
+      "id":4,
+      "merchant_name":"Chatime",
+      "merchant_logo":"https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/531bbac40dca87decb7e45a8ddef0cdb"
+    },
+    {
+      "id":5,
+      "merchant_name":"Berrybenka",
+      "merchant_logo":"https://dp.image-gmkt.com/dp2016/ID/GMKT.IMG/front_image/minishop/2017/09/26/fcecebc2-31bf-4956-bb9f-199338de63ee.png"
+    }
+  ]
+}
